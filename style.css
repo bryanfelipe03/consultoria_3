@@ -295,7 +295,7 @@ section.topo-do-site .flex {
 .topo-do-site .img-topo-site img {
   position: relative;
   animation: flutuar 2s ease-in-out infinite alternate;
-  width: 300px;
+  width: 400px;
   height: 500px;
   border: 5px solid #00FF08;
   border-radius: 20px;
